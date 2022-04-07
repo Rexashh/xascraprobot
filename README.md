@@ -1,4 +1,4 @@
-# MyTelegramOrgRoBot
+# XASCRAPROBOT
 
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
