@@ -18,37 +18,32 @@
 
 class Translation:
     START_TEXT = (
-        "Hi!\n"
-        "please read the TnC before proceeding: https://t.me/SpEcHlDe/889\n"
-        "Thank you for using me 😬\n"
-        "Enter your Telegram Phone Number, "
-        "to get the APP-ID from my.telegram.org\n\n"
-        "/start at any stage to re-enter your details"
+        "xᴀ sᴄʀᴀᴘ ʀᴏʙᴏᴛ\n"
+        "👨‍💻"
+        "ʙᴏᴛ ɪɴɪ ᴀᴋᴀɴ ᴍᴇᴍʙᴀɴᴛᴜ ᴍᴜ ᴍᴇɴɢᴀᴍʙɪʟ ᴀᴘɪ ɪᴅ ᴅᴀɴ ʜᴀsʜ😬\n"
+        "sɪʟᴀʜᴋᴀɴ ᴍᴀsᴜᴋᴀɴ ɴᴏᴍᴇʀ ᴀᴋᴜɴ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜ ᴅᴇɴɢᴀɴ ғᴏʀᴍᴀᴛ :\n\n"
+        "+62xxxxxxx"
     )
     AFTER_RECVD_CODE_TEXT = (
-        "I see!\n"
-        "now please send the Telegram code that "
-        "you received from Telegram!\n\n"
+        "ɴᴏᴍᴇʀ ʜᴘ ᴅɪᴛᴇʀɪᴍᴀ!\n"
+        "sᴇᴋᴀʀᴀɴɢ sɪʟᴀʜᴋᴀɴ ᴋɪʀɪᴍ ᴋᴏᴅᴇ ᴛᴇʟᴇɢʀᴀᴍ ʏᴀɴɢ ᴀɴᴅᴀ ᴛᴇʀɪᴍᴀ "
+        "ᴅᴀʀɪ ᴏғғɪᴄɪᴀʟ ᴛᴇʟᴇɢʀᴀᴍ!\n\n"
 
-        "this code is only used for the purpose of "
-        "getting the APP ID from my.telegram.org\n"
-        "if you do not trust this bot dev, "
-        "please host this bot yourself\n"
-        "by opening https://github.com/SpEcHiDe/MyTelegramOrgRoBot and "
-        "clicking on the Pink Button\n\n"
-
-        "/start at any stage to re-enter your details"
+        "ᴋᴏᴅᴇ ɪɴɪ ʜᴀɴʏᴀ ᴅɪɢᴜɴᴀᴋᴀɴ ᴜɴᴛᴜᴋ ᴛᴜᴊᴜᴀɴ"
+        "ᴍᴇɴɢᴀᴍʙɪʟ ᴀᴘɪ ɪᴅ ᴅᴀɴ ʜᴀsʜ ᴅᴀʀɪ my.telegram.org\n"
+        "ᴊɪᴋᴀ ᴋᴀᴍᴜ ᴛɪᴅᴀᴋ mᴍᴇᴍᴘᴇʀᴄᴀʏᴀɪ ʙᴏᴛ ɪɴɪ,"
+        "ʏᴀ ᴊᴀɴɢᴀɴ ᴅɪᴘᴀᴋᴇ ɢʙʟᴋ ᴀᴍʙɪʟ ᴀᴊᴀ ᴍᴀɴᴜᴀʟ ʀɪʙᴇᴛ ʟᴜ!\n"
     )
-    BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
-    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@SpEcHlDe"
-    CANCELLED_MESG = "Bye! Please re /start the bot conversation"
+    BEFORE_SUCC_LOGIN = "ᴋᴏᴅᴇ ᴅɪᴛᴇʀɪᴍᴀ. sᴄʀᴀᴘᴘɪɴɢ ᴡᴇʙ ᴘᴀɢᴇ ..."
+    ERRED_PAGE = "ᴛᴇʀᴊᴀᴅɪ ᴋᴇsᴀʟᴀʜᴀɴ. ɢᴀɢᴀʟ ᴍᴇɴᴅᴀᴘᴀᴛᴋᴀɴ ᴀᴘɪ ɪᴅ ᴅᴀɴ ʜᴀsʜ. \n\n@tirexgugel"
+    CANCELLED_MESG = "ʙʏᴇ! ᴛᴏʟᴏɴɢ /start ʙᴏᴛ ᴋᴇᴍʙᴀʟɪ"
     IN_VALID_CODE_PVDED = (
-        "sorry, "
-        "but the input does not seem to be "
-        "a valid Telegram Web-Login code"
+        "ᴍᴀᴀғ, "
+        "ᴛᴏʟᴏɴɢ ᴘᴇʀɪᴋsᴀ ᴋᴏᴅᴇ ᴋᴇᴍʙᴀʟɪ ᴋᴀʀᴇɴᴀ "
+        "ᴋᴏᴅᴇ ᴛᴇʟᴇɢʀᴀᴍ ʏᴀɴɢ ᴀɴᴅᴀ ᴍᴀsᴜᴋᴀɴ ᴛɪᴅᴀᴋ ᴠᴀʟɪᴅ "
     )
     IN_VALID_PHNO_PVDED = (
-        "sorry, "
-        "but the input does not seem to be "
-        "a valid phone number"
+        "ᴍᴀᴀғ, "
+        "ᴛᴏʟᴏɴɢ ʙᴇʀɪᴋᴀɴ ɴᴏᴍᴇʀ ᴀᴋᴜɴ ᴛᴇʟᴇɢʀᴀᴍ ʏᴀɴɢ ᴠᴀʟɪᴅ "
+        "ɴᴏᴍᴇʀ ᴛᴇʟᴇɢʀᴀᴍ ʏᴀɴɢ ᴀɴᴅᴀ ᴍᴀsᴜᴋᴀɴ ᴛɪᴅᴀᴋ ᴠᴀʟɪᴅ "
     )
